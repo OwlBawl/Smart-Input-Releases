@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/OwlBawl/Smart-Input/releases/download/0.789/Smart.Input.zip" length="5036364" type="application/octet-stream" sparkle:edSignature="XIiqxAQgv6COLmTv57GyzYjoKyuQ0J6lLOGs5sfQdLmceVmJ0GK4It0IlxdsvZ25QP/1kwhajlCYQu+WxM9FDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input.zip" length="5036365" type="application/octet-stream" sparkle:edSignature="9saYxDSSnvJ8up/1dljB9jI0ipF7egsplv2aMsG83aUiZp90Vd8QlSKbITH17GQ171YbChjugLXpCd7Hm9uGCw=="/>
         </item>
     </channel>
 </rss>
