@@ -4,6 +4,14 @@
         <title>Smart Input</title>
         <item>
             <title>0.789</title>
+            <pubDate>Sat, 16 May 2026 21:39:55 +0300</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input.zip" length="5134977" type="application/octet-stream" sparkle:edSignature="RGGG5ScaxLEJGLA+z1/sJLno6rOa9sk3hs+bYiqTcaqzbWJt2XFDruMhhpxT3bAkwC5Zzd7yEN1K35aQT/CsDw=="/>
+        </item>
+        <item>
+            <title>0.789</title>
             <pubDate>Sat, 16 May 2026 14:56:30 +0300</pubDate>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
