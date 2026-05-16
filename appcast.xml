@@ -4,6 +4,14 @@
         <title>Smart Input</title>
         <item>
             <title>0.789</title>
+            <pubDate>Sat, 16 May 2026 12:48:58 +0300</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input.zip" length="5094174" type="application/octet-stream" sparkle:edSignature="8CYLvKZcK4izKbakFIESahZyFL/408YlGAU8DZ6I7nb5jmb/o8EpdIbsUPNOcxu6n4lAvm8Cssd45XguY1TiDw=="/>
+        </item>
+        <item>
+            <title>0.789</title>
             <pubDate>Sat, 16 May 2026 00:24:21 +0300</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input.zip" length="5093949" type="application/octet-stream" sparkle:edSignature="VEEpae0XuKxbtlq5nabYQwYgsWOVPFYjmIIPDLwusiiB7qLkUdDebUJm1p+gF01Tqbq4Ip1WESsTlM3KIAUNBw=="/>
-        </item>
-        <item>
-            <title>0.789</title>
-            <pubDate>Thu, 14 May 2026 22:12:32 +0300</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input.zip" length="5078368" type="application/octet-stream" sparkle:edSignature="dvnjl9ZImw6j5uOKiny1+PgUj2mHmnBhdV12PRaHjoZiv2cpltRyiPQQeMMCseuu1NkMzQBL5mgjUSJ+wq2UAQ=="/>
         </item>
     </channel>
 </rss>
