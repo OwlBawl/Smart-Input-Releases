@@ -4,6 +4,19 @@
         <title>Smart Input</title>
         <item>
             <title>0.789</title>
+            <pubDate>Sat, 16 May 2026 23:02:28 +0300</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/SmartInput-0.789-29.zip" length="5089808" type="application/octet-stream" sparkle:edSignature="wEqZs/Z46rkwB7CQqvoFXLeUy4bM/GZDR4V6M2ULmrIcUa/C0eu6LPNYW4vwvtHeXDs25AmBMzB23b33TZMEDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input29-28.delta" sparkle:deltaFrom="28" length="39118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PPCBJYIkc1vmlPUcB6RkqFeE9oxo8OFWnia7r1BIcbQgq7E2FJUbCq6Vrrks11vw9LjSoud9NwaW2XFQ0GknCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input29-27.delta" sparkle:deltaFrom="27" length="56526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TVpx7rJ9OJivGwbXRAbItaRuMIlxCvKBk1eirO6gRDqzS7aYF+yAp6JPwg/F6J1mjEdX8HgZxv+y2/l9BhKxBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input29-25.delta" sparkle:deltaFrom="25" length="78462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I+oo0YfYbF/BoCNhngwl8TgE2fwygjS1jnFTOWeQ1g2NEBRaqqxFrfLHQKX1HLfSdFCCKiNzpDHx+0wjr04qAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.789</title>
             <pubDate>Sat, 16 May 2026 22:59:52 +0300</pubDate>
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
@@ -25,17 +38,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input27-25.delta" sparkle:deltaFrom="25" length="72214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y7KtAyk4Gg9cfOkweu9vxflifCZOYfa9bAsEvxrJpjFqZxgPK9zsCEOsRqlM9hAiwgwMvVpvtceN5OQqDBZ9BA=="/>
                 <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input27-24.delta" sparkle:deltaFrom="24" length="72130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8ZR1DBFU9/7WITk0d7UUwqcZVmxTKrn3NzF18PPsez4YtYht55UnljMMA9kdxmw5xXJJ5e/VUobLE+7LQ0avCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.789</title>
-            <pubDate>Sat, 16 May 2026 22:02:16 +0300</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/SmartInput-0.789-25.zip" length="5134979" type="application/octet-stream" sparkle:edSignature="2JFB2e3jLRn8uEPXUSSPm725NAmgJxzUFeg2V0m2ZDPoxOCfNYZJQvym5mudIuJVl9DVpLQosaxSDpJQIiu9AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input25-24.delta" sparkle:deltaFrom="24" length="1338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0ZMPKE4K55vmZlD9n2snR9XN6UbmTPeYd22Hqq6AfT6qPVTBXYqBGST+Sv0o1XcsVvfP8w2s7wowPhsiI82eCg=="/>
             </sparkle:deltas>
         </item>
         <item>
