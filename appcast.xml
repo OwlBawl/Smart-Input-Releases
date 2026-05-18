@@ -4,6 +4,19 @@
         <title>Smart Input</title>
         <item>
             <title>0.789</title>
+            <pubDate>Mon, 18 May 2026 22:31:59 +0300</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/SmartInput-0.789-55.zip" length="5105439" type="application/octet-stream" sparkle:edSignature="Zc3Oc/TulGxCi08ggv+ihuKqnHDB/uPoWB3pRvAStHjFmE2yUoTqyb096F0WxbRl6MwI0+BT9yWcT8rjUAIuCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input55-54.delta" sparkle:deltaFrom="54" length="45666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xc7VgfujJWBmD0XtqV1yFe6d3R7eIngqFdogN5VbO0K5uIlgkcpgKtbry9/KLlZqifethOpZh/5Ae1Ahis4xAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input55-53.delta" sparkle:deltaFrom="53" length="34274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LOF+IfCOFOq21gf17SMW7u68lJy4vVw8GPkmMuvx8bTKGGkjZQAHno3kDGzY8Smx7pfreASq81Wwzd7TDBNXCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input55-52.delta" sparkle:deltaFrom="52" length="34258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EPgEw285ccp4LDc7dYWzBiJMbfF0PVj+BKlNSqTZtpJ644vi6T6DYsErwBPHAGnX6WkObUODBOvHUMFYxKPvDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.789</title>
             <pubDate>Mon, 18 May 2026 22:18:39 +0300</pubDate>
             <sparkle:version>54</sparkle:version>
             <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
@@ -26,19 +39,6 @@
                 <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input53-52.delta" sparkle:deltaFrom="52" length="1354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J1/+TpF0Xxor8ELtUf7dhWp/wHMqw0tGcfolBdWrbv0WKi+i7+Pfo52KpeAXFqDm/HGO0Z3P/EtGoeRRdKhlAg=="/>
                 <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input53-51.delta" sparkle:deltaFrom="51" length="16090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+03Q+asaO6IepurnRide7WT2C5I2J60W2+W+xZP674Cys0W/qmZQ6/cyOZaMLLZAKzh3gK9BZUbBaFHjBX3jDA=="/>
                 <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input53-50.delta" sparkle:deltaFrom="50" length="15730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oDD7Y4UZH4u4URDPT20PB88xzdRqOKYO2r7IsposdZ1u3874JnB9b9QJ40b6Qz6v2nmAAWzq9OzKihMdSQSeCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.789</title>
-            <pubDate>Sun, 17 May 2026 17:17:25 +0300</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/SmartInput-0.789-52.zip" length="5105289" type="application/octet-stream" sparkle:edSignature="5rQ5Eyvw2VHueGvtzK29LrBD2qEik6pFlTb/JMQY5rjyWzbOWWgzlt4NMhbXd/ln633sm4WLnHk5UFYDELb3Cg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input52-51.delta" sparkle:deltaFrom="51" length="16090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qeyFez1L+NeXXu1wrOWiYw8ZPf2uzGGUhfsdlU9A9USuyitACCHgUTRpvs9wrXC6Z8JULor7I0UKj1KLhTSFDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input52-50.delta" sparkle:deltaFrom="50" length="15742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e6SdjYJ4WXJp01sKSB2n8gRV3kCWbvRwz8MIaRWgNiOt8v8WqIKxfqey52v8QUcorWwrwfM8kOLjWprZYExGAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input52-49.delta" sparkle:deltaFrom="49" length="71258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bLwj8EeCdnkG4zXn7G/1cXJZMII89yenXF67ES1lHuera57I9tFSIrWc7CuIc15D7KmWpFKgl6k9bk1iWXIuAw=="/>
             </sparkle:deltas>
         </item>
         <item>
