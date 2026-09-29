@@ -54,9 +54,9 @@ In compatible editors, after moving the caret with the mouse or arrow keys into 
 
 ### Selected text in difficult editors
 
-Some applications and web editors do not expose selected text in the normal macOS way. For an explicit manual selection, Smart Input has a compatibility fallback that temporarily reads the selection through the system clipboard, restores the previous clipboard, and then performs the conversion.
+Smart Input can convert manually selected text even in many applications and web editors that behave differently from standard macOS text fields.
 
-The converted text itself is not placed on the clipboard. A third-party clipboard-history application may still notice the temporary copied selection because the editor's normal Copy command is used during this fallback.
+Select the text, use your configured double-tap shortcut, and Smart Input will use the safest available method to convert it while preserving your current selection and surrounding text.
 
 ### Manual conversion remains useful when automatic conversion is suppressed
 
