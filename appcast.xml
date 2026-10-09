@@ -4,6 +4,19 @@
         <title>Smart Input</title>
         <item>
             <title>0.789</title>
+            <pubDate>Sat, 10 Oct 2026 00:49:02 +0300</pubDate>
+            <sparkle:version>181</sparkle:version>
+            <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/SmartInput-0.789-181.zip" length="3741474" type="application/octet-stream" sparkle:edSignature="5BxwYO4n+BrzskU4icqqBvBnp6S0tXvZo6iyKBCmjR0JnfuZJvUvj4sJdmyzSO9IaeL+XWUXz8qc/fuiwplqBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input181-180.delta" sparkle:deltaFrom="180" length="364182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JCGNPs6msu/TGOcQMLWTgOqA3KslBRf5/CRMKgrDFlb6fljaAHI0+ozQyENdw+fekdg/WfyanY0CbOtRmNeMCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input181-179.delta" sparkle:deltaFrom="179" length="367098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iz08rmffa2/y8LKAg1ho9w9MdFF2uukKjO4tqb6UDp+DRf7kqEsGbvjGWpHaavTVlifHOEI19884fdbgUsxfDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/OwlBawl/Smart-Input-Releases/main/Smart%20Input181-178.delta" sparkle:deltaFrom="178" length="370750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FOP6rD0cEmVGPZhTccdbNdGYuZhEUHj2wx7IuCOZhlVHAPfkY+vK210ITdql5WLlDF9XtYQvX/RGoVuRuU9ECw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.789</title>
             <pubDate>Sat, 03 Oct 2026 21:04:53 +0300</pubDate>
             <sparkle:version>180</sparkle:version>
             <sparkle:shortVersionString>0.789</sparkle:shortVersionString>
